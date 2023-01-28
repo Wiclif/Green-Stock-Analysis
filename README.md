@@ -11,7 +11,7 @@ The analysis was done with an extension of microsoft Excel called Visual basic F
 
 ## Resources
 - Software used: Excel VBA
-- source data: [greens_stocks.xsm]
+- source data: [greens_stocks.xlsm](https://github.com/Wiclif/Stock-Analysis/blob/main/green_stocks.xlsm)
 
 ## The Data
 
